@@ -11,3 +11,4 @@ Objectives:
 Using age, sex and bmi to create an algorithm for assessing life insurance costs.
 Predicting costs for certain patients based on their sex, age, bmi and region to help doctors decide what treatments work best financially for them.
 Creating a cost calculator that takes into account the patient’s age, sex, smoker status, region of residence and other factors to accurately predict the medical bills a person will pay in a year
+In the second file I tried to model for the insurance and drew some box plots also
